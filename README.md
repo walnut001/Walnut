@@ -1,2 +1,2 @@
 # Walnut
-An operating system written by
+An operating system written by Go Programming Language.
